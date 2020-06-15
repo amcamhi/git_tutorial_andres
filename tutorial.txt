@@ -1,6 +1,1 @@
-ls
-git status
-git status
-cd ..
-ls
-pwd
+Hello World gggg
